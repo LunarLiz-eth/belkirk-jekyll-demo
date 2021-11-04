@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/sun-and-moon-astrology-june-2021.md
